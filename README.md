@@ -17,8 +17,8 @@
   ##
 
 <div>
-  <a href="https://www.linkedin.com/in/luan-alcantara-b400a719a" target="_blank"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new" target="_blank"/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/luan-alcantara-b400a719a/" target="_blank"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white/" target="_blank"/>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new/" target="_blank"/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/" target="_blank"/>
 
   ![Snake animation](https://github.com/Luan-Alcantara/Luan-Alcantara/blob/output/github-contribution-grid-snake.svg)
 </div>
