@@ -1,4 +1,4 @@
-### Olá! Eu sou o Luan, seja bem vindo a meu perfil no GitHub
+### Olá! Eu sou o Luan, seja bem vindo ao meu perfil no GitHub
 
 - 💊 Atualmente trabalho na Empresa Raia Drogasil
 - 💻 Estudando JavaScript e SQL
