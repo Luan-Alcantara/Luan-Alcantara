@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Luan, seja bem vindo ao meu perfil no GitHub
 
-- 💊 Atualmente trabalho na Empresa Raia Drogasil
-- 💻 Estudando JavaScript e SQL
+- 💊 Atualmente trabalho na Empresa Rede D'Or
+- 💻 Estudando Analise e Desenvolvimento de Sistemas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-Alcantara&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Alcantara&layout=demo&show_icons=true&theme=dark)](https://github.com/Luan-Alcantara/github-readme-stats)
